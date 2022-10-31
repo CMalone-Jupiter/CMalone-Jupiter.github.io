@@ -7,7 +7,7 @@ Connor graduated from QUT in 2019 with a Bachelor of Engineering (Mechatronics) 
 
 Connor is particularly interested in research contributing to the scene understanding capabilities of autonomous vehicles and how to improve their performance in challenging conditions. He also has a growing interest in the application of probabilistic methods to robotics and neural networks.
 
-# Thesis:
+## Thesis:
 Spatially Informed Scene Understanding for Robots and Autonomous Vehicles
-# Current Work:
+## Current Work:
 Investigating how Visual Place Recognition can be used to improve semantic segmentation in challenging domains (e.g. night, fog, snow, rain) without additional training.
