@@ -61,7 +61,7 @@ author:
   name   : "Connor Malone"
   avatar : "/assets/images/QUT Day4 Low Resolution (2).jpg"
   bio    : |
-    <ul style="list-style: none;">
+    <ul style="list-style: none; padding-left: 0;">
       <li>Mechatronics Engineer</li>
       <li>PhD Candidate</li>
       <li>Robotics & Autonomous Vehicles</li>
