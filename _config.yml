@@ -60,12 +60,12 @@ plugins:
 author:
   name   : "Connor Malone"
   avatar : "/assets/images/QUT Day4 Low Resolution (2).jpg"
-  bio    : "Mechatronics Engineer |
-    PhD Candidate |
-    Robotics & Autonomous Vehicles |
-    QUT Centre for Robotics |
-    Computer Vision |
-    Deep Learning |
+  bio    : "Mechatronics Engineer |\n
+    PhD Candidate |\n
+    Robotics & Autonomous Vehicles |\n
+    QUT Centre for Robotics |\n
+    Computer Vision |\n
+    Deep Learning |\n
     Livestock and Agriculture"
 
   links:
