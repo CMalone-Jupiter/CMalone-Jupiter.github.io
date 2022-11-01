@@ -61,12 +61,12 @@ author:
   name   : "Connor Malone"
   avatar : "/assets/images/QUT Day4 Low Resolution (2).jpg"
   bio    : "Mechatronics Engineer
-  PhD Candidate
-  Robotics & Autonomous Vehicles
-  QUT Centre for Robotics
-  Computer Vision
-  Deep Learning
-  Livestock and Agriculture"
+      PhD Candidate
+      Robotics & Autonomous Vehicles
+      QUT Centre for Robotics
+      Computer Vision
+      Deep Learning
+      Livestock and Agriculture"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
