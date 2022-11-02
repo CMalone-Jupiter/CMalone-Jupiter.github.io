@@ -15,9 +15,9 @@ feature_row:
   - image_path: /assets/images/QUT_Day4_Low_Resolution.jpg
     title: "This is me!"
     excerpt: "Welcome to my page. Please read on!"
-    url: "/about/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    # url: "/about/"
+    # btn_label: "Read More"
+    # btn_class: "btn--primary"
   - image_path: /assets/images/cattle_work_2.png
     title: "Rural Roots"
     excerpt: "I grew up within the agriculture industry with exposure to a range of livestock work from farming to feedlotting (cattle and sheep mostly) 
