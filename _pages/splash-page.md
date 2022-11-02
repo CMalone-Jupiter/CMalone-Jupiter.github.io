@@ -8,6 +8,9 @@ header:
   actions:
     - label: "Contact"
       url: "https://www.linkedin.com/in/connor-malone-jupiter/"
+  # video:
+  #   id: 212731897
+  #   provider: google-drive
 excerpt: "A mechatronics engineer from a rural background who's passionate about robotics, autonomous vehicles, computer vision and the agriculture industry"
 intro: 
   - excerpt: "'For the best return on your money, pour your purse into your head.' \n -- Benjamin Franklin"
@@ -36,4 +39,4 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
-{% include video id="1BbtOFAKBqOt0edzPqhqPHe97ioUceE3z/view?usp=share_link" provider="google-drive" %}
+{% include video id="1BbtOFAKBqOt0edzPqhqPHe97ioUceE3z/preview" provider="google-drive" %}
