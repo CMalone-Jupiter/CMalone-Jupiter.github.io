@@ -10,9 +10,8 @@ header:
       url: "https://www.linkedin.com/in/connor-malone-jupiter/"
 excerpt: "A mechatronics engineer from a rural background who's passionate about robotics, autonomous vehicles, computer vision and the agriculture industry"
 intro: 
-  - excerpt: |
-    "For the best return on your money, pour your purse into your head."
-        - Benjamin Franklin
+  - excerpt: "'For the best return on your money, pour your purse into your head.'
+        - Benjamin Franklin"
 feature_row:
   - image_path: /assets/images/QUT_Day4_Low_Resolution.jpg
     title: "This is me!"
