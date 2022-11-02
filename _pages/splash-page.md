@@ -22,7 +22,7 @@ feature_row:
     title: "Rural Roots"
     excerpt: "I grew up within the agriculture industry with exposure to a range of livestock work from farming to feedlotting (cattle and sheep mostly) 
       as well crop farming and heavy machine work. This lends me a unique perspective on many problems."
-    url: "/about/"
+    url: "/about/#more-interesting-things"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/pipeline_2.png
