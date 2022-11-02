@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/merged_splash_im2.PNG
+  overlay_image: /assets/images/merged_splash_im3.PNG
   actions:
     - label: "Download"
       url: "#test-link"
