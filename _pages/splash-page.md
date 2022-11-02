@@ -10,24 +10,28 @@ header:
       url: "https://www.linkedin.com/in/connor-malone-jupiter/"
 excerpt: "A mechatronics engineer from a rural background who's passionate about robotics, autonomous vehicles, computer vision and the agriculture industry"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: |
+    "For the best return on your money, pour your purse into your head."
+        - Benjamin Franklin
 feature_row:
   - image_path: /assets/images/QUT_Day4_Low_Resolution.jpg
-    title: "Placeholder 1"
-    excerpt: "Sample text 1 with **markdown** formatting."
-    url: "#test-link"
+    title: "This is me!"
+    excerpt: "Welcome to my page. Please read on about me!"
+    url: "/about/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/cattle_work.jpg
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    title: "Rural Roots"
+    excerpt: "I grew up within the agriculture industry with exposure to a range of livestock work from farming to feedlotting (cattle and sheep mostly) 
+      as well crop farming and heavy machine work. This lends me a unique perspective on many problems."
+    url: "/about/"
     btn_label: "Read More"
-    btn_class: "btn--secondar"
+    btn_class: "btn--primary"
   - image_path: /assets/images/SimilarPlaces_Pipeline.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    title: "Research Work"
+    excerpt: "My research has so far focused on improving scene understanding and place recognition for autonomous platforms in challenging conditions.
+      I have explored several novel ways to make these robots/vehicles more robust to difficult environments."
+    url: "/Publications/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
