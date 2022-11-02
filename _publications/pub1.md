@@ -7,6 +7,6 @@ paper_url: http://doi.org/10.1109/LRA.2022.3146894
 
 
 
-|![Semantically similar but geographically separate places from WildDash](/assets/images/similar_place_eg.PNG){:class="img-responsive"}|
+|![Semantically similar but geographically separate places from WildDash](/assets/images/SimilarPlaces_RAL.PNG){:class="img-responsive"}|
 |:--:|
 |<b><font size="2">Semantically similar but geographically separate places from WildDash.</font></b>|
