@@ -25,7 +25,7 @@ feature_row:
     url: "/about/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/SimilarPlaces_Pipeline.jpg
+  - image_path: /assets/images/pipeline_2.png
     title: "Research Work"
     excerpt: "My research has so far focused on improving scene understanding and place recognition for autonomous platforms in challenging conditions.
       I have explored several novel ways to make these robots/vehicles more robust to difficult environments."
