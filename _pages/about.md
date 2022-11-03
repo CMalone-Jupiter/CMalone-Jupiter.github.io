@@ -48,7 +48,7 @@ Growing up in a country town within Australia I was exposed to many different ex
         }
     .image-gallery > li {
         flex: 1 1 auto; /* or flex: auto; */
-        height: 10em;
+        height: 5em;
         cursor: pointer;
         position: relative;
         }
@@ -58,10 +58,12 @@ Growing up in a country town within Australia I was exposed to many different ex
         }
     .image-gallery li img {
         object-fit: cover;
-        width: 85%;
-        height: 85%;
+        /* width: 85%;
+        height: 85%; */
+        max-height: 100%;
+        width: auto;
         vertical-align: middle;
-        border-radius: 1em;
+        border-radius: 0.5em;
         }
     .image-gallery li:hover .overlay {
         transform: scale(1);
