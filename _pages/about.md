@@ -53,10 +53,10 @@ Growing up in a country town within Australia I was exposed to many different ex
         cursor: pointer;
         position: relative;
         }
-    .image-gallery::after {
+    /* .image-gallery::after {
         content: "";
         flex-grow: 999;
-        }
+        } */
     .image-gallery li img {
         object-fit: cover;
         /* width: 85%;
