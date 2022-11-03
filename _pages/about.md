@@ -68,8 +68,12 @@ Growing up in a country town within Australia I was exposed to many different ex
         }
     .image-gallery li iframe {
         object-fit: cover;
-        max-height: 100%;
-        max-width: auto;
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width = auto;
+        max-width: 100%;
         vertical-align: middle;
         }
     .image-gallery li:hover .overlay {
@@ -87,14 +91,14 @@ Growing up in a country town within Australia I was exposed to many different ex
       <img src="/assets/images/cattle_work.jpg" alt="" />
     </li>
     <li>
-      <iframe src="https://www.youtube.com/embed/4pNr5IM_HRE" frameborder="0"></iframe>
-    </li>
-    <li>
       <img src="/assets/images/Presenting.jpg" alt="" />
     </li>
     <!-- <li>
       <img src="/assets/images/QUT_Day4_Low_Resolution.jpg" alt="" />
     </li> -->
+    <li>
+      <iframe src="https://www.youtube.com/embed/4pNr5IM_HRE" frameborder="0"></iframe>
+    </li>
   </ul>
 </div>
 
