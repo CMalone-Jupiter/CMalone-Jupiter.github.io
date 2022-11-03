@@ -83,11 +83,16 @@ Growing up in a country town within Australia I was exposed to many different ex
     <li>
       <img src="/assets/images/Presenting.jpg" alt="" />
     </li>
-    <li>
+    <!-- <li>
       <img src="/assets/images/QUT_Day4_Low_Resolution.jpg" alt="" />
+    </li> -->
+    <li>
+      <iframe src="http://www.youtube.com/embed/4pNr5IM_HRE"
+        width="560" height="315" frameborder="0"></iframe>
     </li>
   </ul>
 </div>
+
 
 ## Livestock Work:
 
