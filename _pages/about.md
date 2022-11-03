@@ -93,7 +93,7 @@ Growing up in a country town within Australia I was exposed to many different ex
       <img src="/assets/images/QUT_Day4_Low_Resolution.jpg" alt="" />
     </li> -->
     <li>
-      <iframe src="https://www.youtube.com/embed/4pNr5IM_HRE"></iframe>
+      <iframe src="https://www.youtube.com/embed/4pNr5IM_HRE" frameborder="0"></iframe>
     </li>
   </ul>
 </div>
