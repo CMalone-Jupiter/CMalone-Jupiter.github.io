@@ -44,11 +44,11 @@ Growing up in a country town within Australia I was exposed to many different ex
     .image-gallery {
         display: flex;
         flex-wrap: wrap;
-        gap: 10px;
+        gap: 5px;
         }
     .image-gallery > li {
         flex: 1 1 auto; /* or flex: auto; */
-        height: 300px;
+        height: 200px;
         cursor: pointer;
         position: relative;
         }
