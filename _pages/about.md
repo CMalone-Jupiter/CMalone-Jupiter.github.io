@@ -28,15 +28,33 @@ Growing up in a country town within Australia I was exposed to many different ex
 <!-- {% include gallery caption="This is a sample gallery with **Markdown support**." %} -->
 
 <style>
+    .container {
+        padding: 40px 5%;
+        }
+    .heading-text {
+        margin-bottom: 2rem;
+        font-size: 2rem;
+        }
+    .heading-text span {
+        font-weight: 100;
+        }
+    ul {
+        list-style: none;
+        }
     .image-gallery {
         display: flex;
         flex-wrap: wrap;
         gap: 10px;
         }
     .image-gallery > li {
+        flex: 1 1 auto; /* or flex: auto; */
         height: 300px;
         cursor: pointer;
         position: relative;
+        }
+    .image-gallery::after {
+        content: "";
+        flex-grow: 999;
         }
     .image-gallery li img {
         object-fit: cover;
@@ -45,13 +63,8 @@ Growing up in a country town within Australia I was exposed to many different ex
         vertical-align: middle;
         border-radius: 5px;
         }
-    .image-gallery > li {
-        flex-grow: 1;
-        /* ... */
-        }
-    .image-gallery > li {
-        flex: 1 1 auto; /* or flex: auto; */
-        /* ... */
+    .image-gallery li:hover .overlay {
+        transform: scale(1);
         }
 </style>
 
