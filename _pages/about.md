@@ -31,16 +31,18 @@ Growing up in a country town within Australia I was exposed to many different ex
   <!-- heading text -->
   <ul class="image-gallery">
     <li>
-      <img src=/assets/images/digger.jpg alt="" />
+      <!-- <img src="/assets/images/digger.jpg" alt="" /> -->
+      <img src="https://source.unsplash.com/VWcPlbHglYc" alt="" />
       <!-- <div class="overlay"><span>Image title</span></div> -->
     </li>
     <li>
-      <img src=/assets/images/cattle_work.jpg alt="" />
+      <!-- <img src="/assets/images/cattle_work.jpg" alt="" /> -->
+      <img src="https://source.unsplash.com/e6FMMambeO4" alt="" />
       <!-- <div class="overlay"><span>Image title</span></div> -->
     </li>
   </ul>
 </div>
-
+{: 
 .image-gallery {
   display: flex;
   flex-wrap: wrap;
@@ -69,6 +71,7 @@ Growing up in a country town within Australia I was exposed to many different ex
 .image-gallery > li {
   flex: 1 1 auto; /* or flex: auto; */
   /* ... */
+}
 }
 
 ## Livestock Work:
