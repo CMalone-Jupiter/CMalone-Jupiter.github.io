@@ -44,7 +44,7 @@ Growing up in a country town within Australia I was exposed to many different ex
     .image-gallery {
         display: flex;
         flex-wrap: wrap;
-        gap: 5px;
+        gap: 1px;
         }
     .image-gallery > li {
         flex: 1 1 auto; /* or flex: auto; */
@@ -61,7 +61,7 @@ Growing up in a country town within Australia I was exposed to many different ex
         width: 100%;
         height: 100%;
         vertical-align: middle;
-        border-radius: 5px;
+        border-radius: 1px;
         }
     .image-gallery li:hover .overlay {
         transform: scale(1);
@@ -78,6 +78,16 @@ Growing up in a country town within Australia I was exposed to many different ex
     </li>
     <li>
       <img src="/assets/images/cattle_work.jpg" alt="" />
+      <!-- <img src="https://source.unsplash.com/e6FMMambeO4" alt="" /> -->
+      <!-- <div class="overlay"><span>Image title</span></div> -->
+    </li>
+    <li>
+      <img src="/assets/images/Presenting.jpg" alt="" />
+      <!-- <img src="https://source.unsplash.com/e6FMMambeO4" alt="" /> -->
+      <!-- <div class="overlay"><span>Image title</span></div> -->
+    </li>
+    <li>
+      <img src="/assets/images/QUT_Day4_Low_Resolution.jpg" alt="" />
       <!-- <img src="https://source.unsplash.com/e6FMMambeO4" alt="" /> -->
       <!-- <div class="overlay"><span>Image title</span></div> -->
     </li>
