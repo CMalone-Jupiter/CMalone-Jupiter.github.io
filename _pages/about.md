@@ -51,7 +51,7 @@ Growing up in a country town within Australia I was exposed to many different ex
         }
     .image-gallery > li {
         flex: 1 1 auto; /* or flex: auto; */
-        height: 250px;
+        height: 150px;
         cursor: pointer;
         position: relative;
         }
