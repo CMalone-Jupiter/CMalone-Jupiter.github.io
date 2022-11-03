@@ -29,7 +29,7 @@ Growing up in a country town within Australia I was exposed to many different ex
 
 <style>
     .container {
-        padding: 0px 0%;
+        padding: 5px 1%;
         }
     .heading-text {
         margin-bottom: 2rem;
@@ -41,17 +41,14 @@ Growing up in a country town within Australia I was exposed to many different ex
     ul {
         list-style: none;
         }
-    li{
-        margin: 0px 0;
-        }
     .image-gallery {
         display: flex;
         flex-wrap: wrap;
-        gap: 0px;
+        gap: 5px;
         }
     .image-gallery > li {
         flex: 1 1 auto; /* or flex: auto; */
-        height: 150px;
+        height: 200px;
         cursor: pointer;
         position: relative;
         }
@@ -64,7 +61,7 @@ Growing up in a country town within Australia I was exposed to many different ex
         width: 85%;
         height: 85%;
         vertical-align: middle;
-        border-radius: 0px;
+        border-radius: 5px;
         }
     .image-gallery li:hover .overlay {
         transform: scale(1);
