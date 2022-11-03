@@ -28,6 +28,9 @@ Growing up in a country town within Australia I was exposed to many different ex
 <!-- {% include gallery caption="This is a sample gallery with **Markdown support**." %} -->
 
 <style>
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     .container {
         padding: 1px 1%;
         }
@@ -71,22 +74,20 @@ Growing up in a country town within Australia I was exposed to many different ex
         }
 </style>
 
-<!-- alt=""  -->
-
 <div class="container">
   <!-- heading text -->
   <ul class="image-gallery">
     <li>
-      <img src="/assets/images/digger.jpg"/>
+      <img src="/assets/images/digger.jpg" alt="" />
     </li>
     <li>
-      <img src="/assets/images/cattle_work.jpg"/>
+      <img src="/assets/images/cattle_work.jpg" alt="" />
     </li>
     <li>
-      <img src="/assets/images/Presenting.jpg"/>
+      <img src="/assets/images/Presenting.jpg" alt="" />
     </li>
     <li>
-      <img src="/assets/images/QUT_Day4_Low_Resolution.jpg"/>
+      <img src="/assets/images/QUT_Day4_Low_Resolution.jpg" alt="" />
     </li>
   </ul>
 </div>
