@@ -61,7 +61,7 @@ Growing up in a country town within Australia I was exposed to many different ex
         object-fit: cover;
         /* width: 85%;
         height: 85%; */
-        max-height: 100%;
+        max-height: 95%;
         width: auto;
         vertical-align: middle;
         border-radius: 0.25em;
