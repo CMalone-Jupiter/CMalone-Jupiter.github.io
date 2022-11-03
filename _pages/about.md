@@ -61,8 +61,8 @@ Growing up in a country town within Australia I was exposed to many different ex
         }
     .image-gallery li img {
         object-fit: cover;
-        width: 70%;
-        height: 70%;
+        width: 100%;
+        height: 100%;
         vertical-align: middle;
         border-radius: 5px;
         }
