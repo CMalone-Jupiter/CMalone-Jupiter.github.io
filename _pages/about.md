@@ -1,9 +1,9 @@
 ---
 permalink: /about/
 title: "Career"
-gallery:
-  - image_path: /assets/images/digger.jpg
-  - image_path: /assets/images/cattle_work.jpg
+# gallery:
+#   - image_path: /assets/images/digger.jpg
+#   - image_path: /assets/images/cattle_work.jpg
 header:
   video:
     id: 4pNr5IM_HRE
@@ -14,19 +14,62 @@ I graduated from the Queensland University of Technology (QUT) in 2019 with a Ba
 
 I am particularly interested in research contributing to the scene understanding capabilities of autonomous vehicles and how to improve their performance in challenging conditions. I also have a growing interest in the application of probabilistic methods to robotics and neural networks.
 
-<!-- https://youtu.be/4pNr5IM_HRE -->
-{% include video id="4pNr5IM_HRE" provider="youtube" %}
-
 ## Thesis:
 Spatially Informed Scene Understanding for Robots and Autonomous Vehicles
 ## Current Work:
 Investigating how Visual Place Recognition can be used to improve semantic segmentation in challenging domains (e.g. night, fog, snow, rain) without additional training.
 
+{% include video id="4pNr5IM_HRE" provider="youtube" %}
+
 # More Interesting Things
 Growing up in a country town within Australia I was exposed to many different experiences which helped shape who I am and how I approach problems. Being the son of a livestock and station agent I have been involved with cattle work and rural property business for most of my life. In addition, many of my friends and family own and run crop farms which has given me the opportunity to learn about that side of the industry too and work with different heavy machinery.
 
 <!-- |![Digger](/assets/images/digger.jpg){:class="img-responsive"}|![cows](/assets/images/cattle_work.jpg){:class="img-responsive"}| -->
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+<!-- {% include gallery caption="This is a sample gallery with **Markdown support**." %} -->
+
+<div class="container">
+  <!-- heading text -->
+  <ul class="image-gallery">
+    <li>
+      <img src=/assets/images/digger.jpg alt="" />
+      <!-- <div class="overlay"><span>Image title</span></div> -->
+    </li>
+    <li>
+      <img src=/assets/images/cattle_work.jpg alt="" />
+      <!-- <div class="overlay"><span>Image title</span></div> -->
+    </li>
+  </ul>
+</div>
+
+.image-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.image-gallery > li {
+  height: 300px;
+  cursor: pointer;
+  position: relative;
+}
+
+.image-gallery li img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  vertical-align: middle;
+  border-radius: 5px;
+}
+
+.image-gallery > li {
+  flex-grow: 1;
+  /* ... */
+}
+
+.image-gallery > li {
+  flex: 1 1 auto; /* or flex: auto; */
+  /* ... */
+}
 
 ## Livestock Work:
 
