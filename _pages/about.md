@@ -84,6 +84,9 @@ Growing up in a country town within Australia I was exposed to many different ex
 <div class="container">
   <!-- heading text -->
   <ul class="image-gallery">
+  <li>
+      <iframe src="https://www.youtube.com/embed/4pNr5IM_HRE" frameborder="0"></iframe>
+    </li>
     <li>
       <img src="/assets/images/digger.jpg" alt="" />
     </li>
@@ -96,9 +99,6 @@ Growing up in a country town within Australia I was exposed to many different ex
     <!-- <li>
       <img src="/assets/images/QUT_Day4_Low_Resolution.jpg" alt="" />
     </li> -->
-    <li>
-      <iframe src="https://www.youtube.com/embed/4pNr5IM_HRE" frameborder="0"></iframe>
-    </li>
   </ul>
 </div>
 
