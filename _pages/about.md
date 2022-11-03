@@ -44,7 +44,7 @@ Growing up in a country town within Australia I was exposed to many different ex
     .image-gallery {
         display: flex;
         flex-wrap: wrap;
-        gap: 1em;
+        gap: 0.5em;
         }
     .image-gallery > li {
         /* flex: 1 1 auto; or flex: auto; */
@@ -61,7 +61,7 @@ Growing up in a country town within Australia I was exposed to many different ex
         object-fit: cover;
         /* width: 85%;
         height: 85%; */
-        max-height: 95%;
+        max-height: 100%;
         width: auto;
         vertical-align: middle;
         border-radius: 0.25em;
