@@ -47,8 +47,8 @@ Growing up in a country town within Australia I was exposed to many different ex
         gap: 0.5em;
         }
     .image-gallery > li {
-        /* flex: 1 1 auto; or flex: auto; */
-        flex: auto;
+        flex: 1 1 auto;
+        /* flex: auto; */
         height: 7em;
         cursor: pointer;
         position: relative;
