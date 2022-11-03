@@ -29,7 +29,7 @@ Growing up in a country town within Australia I was exposed to many different ex
 
 <style>
     .container {
-        padding: 40px 5%;
+        padding: 1px 1%;
         }
     .heading-text {
         margin-bottom: 2rem;
