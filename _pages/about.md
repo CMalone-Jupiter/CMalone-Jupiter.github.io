@@ -27,6 +27,34 @@ Growing up in a country town within Australia I was exposed to many different ex
 <!-- |![Digger](/assets/images/digger.jpg){:class="img-responsive"}|![cows](/assets/images/cattle_work.jpg){:class="img-responsive"}| -->
 <!-- {% include gallery caption="This is a sample gallery with **Markdown support**." %} -->
 
+<style>
+    .image-gallery {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        }
+    .image-gallery > li {
+        height: 300px;
+        cursor: pointer;
+        position: relative;
+        }
+    .image-gallery li img {
+        object-fit: cover;
+        width: 100%;
+        height: 100%;
+        vertical-align: middle;
+        border-radius: 5px;
+        }
+    .image-gallery > li {
+        flex-grow: 1;
+        /* ... */
+        }
+    .image-gallery > li {
+        flex: 1 1 auto; /* or flex: auto; */
+        /* ... */
+        }
+</style>
+
 <div class="container">
   <!-- heading text -->
   <ul class="image-gallery">
@@ -42,37 +70,6 @@ Growing up in a country town within Australia I was exposed to many different ex
     </li>
   </ul>
 </div>
-{: 
-.image-gallery {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-}
-
-.image-gallery > li {
-  height: 300px;
-  cursor: pointer;
-  position: relative;
-}
-
-.image-gallery li img {
-  object-fit: cover;
-  width: 100%;
-  height: 100%;
-  vertical-align: middle;
-  border-radius: 5px;
-}
-
-.image-gallery > li {
-  flex-grow: 1;
-  /* ... */
-}
-
-.image-gallery > li {
-  flex: 1 1 auto; /* or flex: auto; */
-  /* ... */
-}
-}
 
 ## Livestock Work:
 
