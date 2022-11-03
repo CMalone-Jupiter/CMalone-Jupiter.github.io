@@ -66,6 +66,12 @@ Growing up in a country town within Australia I was exposed to many different ex
         vertical-align: middle;
         border-radius: 0.25em;
         }
+    .image-gallery li iframe {
+        object-fit: cover;
+        max-height: 100%;
+        width: auto;
+        vertical-align: middle;
+        }
     .image-gallery li:hover .overlay {
         transform: scale(1);
         }
@@ -87,8 +93,7 @@ Growing up in a country town within Australia I was exposed to many different ex
       <img src="/assets/images/QUT_Day4_Low_Resolution.jpg" alt="" />
     </li> -->
     <li>
-      <iframe src="http://www.youtube.com/embed/4pNr5IM_HRE"
-        width="560" height="315" frameborder="0"></iframe>
+      <iframe src="http://www.youtube.com/embed/4pNr5IM_HRE"></iframe>
     </li>
   </ul>
 </div>
