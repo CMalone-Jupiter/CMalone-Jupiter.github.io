@@ -69,7 +69,7 @@ Growing up in a country town within Australia I was exposed to many different ex
     .image-gallery li iframe {
         object-fit: cover;
         max-height: 100%;
-        width: auto;
+        max-width: 100%;
         vertical-align: middle;
         }
     .image-gallery li:hover .overlay {
