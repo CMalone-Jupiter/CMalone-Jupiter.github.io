@@ -4,6 +4,10 @@ title: "Career"
 # gallery:
 #   - image_path: /assets/images/digger.jpg
 #   - image_path: /assets/images/cattle_work.jpg
+header:
+  video:
+    id: 4pNr5IM_HRE
+    provider: youtube
 ---
 <!-- # Career: -->
 I graduated from the Queensland University of Technology (QUT) in 2019 with a Bachelor of Engineering (Mechatronics) with first class honours. My capstone project focused on the development of a deployable ground plane segmentation system for the ‘Carlie’ mini autonomous vehicle platform. This work transitioned into the commencement of my PhD research under the supervision of Prof. Michael Milford, Assoc. Prof. Thierry Peynot and Dr Sourav Garg in 2020.
@@ -37,9 +41,9 @@ Growing up in a country town within Australia I was exposed to many different ex
     ul {
         list-style: none;
         }
-    /* li{
+    li{
         margin: 1px 0;
-        } */
+        }
     .image-gallery {
         display: flex;
         flex-wrap: wrap;
