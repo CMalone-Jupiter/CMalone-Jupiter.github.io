@@ -55,10 +55,10 @@ Growing up in a country town within Australia I was exposed to many different ex
         cursor: pointer;
         position: relative;
         }
-    .image-gallery::after {
+    /* .image-gallery::after {
         content: "";
         flex-grow: 999;
-        }
+        } */
     .image-gallery li img {
         object-fit: cover;
         width: 85%;
@@ -76,23 +76,15 @@ Growing up in a country town within Australia I was exposed to many different ex
   <ul class="image-gallery">
     <li>
       <img src="/assets/images/digger.jpg" alt="" />
-      <!-- <img src="https://source.unsplash.com/VWcPlbHglYc" alt="" /> -->
-      <!-- <div class="overlay"><span>Image title</span></div> -->
     </li>
     <li>
       <img src="/assets/images/cattle_work.jpg" alt="" />
-      <!-- <img src="https://source.unsplash.com/e6FMMambeO4" alt="" /> -->
-      <!-- <div class="overlay"><span>Image title</span></div> -->
     </li>
     <li>
       <img src="/assets/images/Presenting.jpg" alt="" />
-      <!-- <img src="https://source.unsplash.com/e6FMMambeO4" alt="" /> -->
-      <!-- <div class="overlay"><span>Image title</span></div> -->
     </li>
     <li>
       <img src="/assets/images/QUT_Day4_Low_Resolution.jpg" alt="" />
-      <!-- <img src="https://source.unsplash.com/e6FMMambeO4" alt="" /> -->
-      <!-- <div class="overlay"><span>Image title</span></div> -->
     </li>
   </ul>
 </div>
