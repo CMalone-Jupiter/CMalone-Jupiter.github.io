@@ -52,7 +52,10 @@ Growing up in a country town within Australia I was exposed to many different ex
         height: 7em;
         cursor: pointer;
         position: relative;
-        margin: 0em 0;
+        margin: 0.15em 0;
+        }
+    .image-gallery > li::marker {
+        font-size: 0.1em;
         }
     /* .image-gallery::after {
         content: "";
@@ -94,9 +97,9 @@ Growing up in a country town within Australia I was exposed to many different ex
     <li>
       <img src="/assets/images/Presenting.jpg" alt="" />
     </li>
-    <li>
+    <!-- <li>
       <img src="/assets/images/QUT_Day4_Low_Resolution.jpg" alt="" />
-    </li>
+    </li> -->
     <li>
       <iframe src="https://www.youtube.com/embed/4pNr5IM_HRE" frameborder="0"></iframe>
     </li>
