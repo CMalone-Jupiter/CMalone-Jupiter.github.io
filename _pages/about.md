@@ -54,9 +54,9 @@ Growing up in a country town within Australia I was exposed to many different ex
         position: relative;
         margin: 0.15em 0;
         }
-    .image-gallery > li::marker {
+    /* .image-gallery > li::marker {
         font-size: 0.1em;
-        }
+        } */
     /* .image-gallery::after {
         content: "";
         flex-grow: 999;
