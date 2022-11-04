@@ -70,7 +70,7 @@ Growing up in a country town within Australia I was exposed to many different ex
         vertical-align: middle;
         border-radius: 0.25em;
         }
-    .image-gallery li iframe {
+    /* .image-gallery li iframe {
         object-fit: cover;
         position: absolute;
         top: 0;
@@ -79,6 +79,18 @@ Growing up in a country town within Australia I was exposed to many different ex
         width: auto;
         max-width: 100%;
         vertical-align: middle;
+        } */
+    .videoWrapper {
+        position: relative;
+        padding-bottom: 56.25%; /* 16:9 */
+        height: 0;
+        }
+    .videoWrapper iframe{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
         }
     .image-gallery li:hover .overlay {
         transform: scale(1);
@@ -101,7 +113,9 @@ Growing up in a country town within Australia I was exposed to many different ex
       <img src="/assets/images/QUT_Day4_Low_Resolution.jpg" alt="" />
     </li> -->
     <li>
-      <iframe src="https://www.youtube.com/embed/4pNr5IM_HRE" frameborder="0"></iframe>
+      <div class="videoWrapper">
+        <iframe src="https://www.youtube.com/embed/4pNr5IM_HRE" frameborder="0"></iframe>
+      </div>
     </li>
   </ul>
 </div>
