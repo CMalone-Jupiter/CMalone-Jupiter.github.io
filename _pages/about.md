@@ -54,10 +54,10 @@ Growing up in a country town within Australia I was exposed to many different ex
         position: relative;
         margin: 0em 0;
         }
-    /* .image-gallery::after {
+    .image-gallery::after {
         content: "";
         flex-grow: 999;
-        } */
+        }
     .image-gallery li img {
         object-fit: cover;
         /* width: 85%;
@@ -92,14 +92,14 @@ Growing up in a country town within Australia I was exposed to many different ex
       <img src="/assets/images/cattle_work.jpg" alt="" />
     </li>
     <li>
-      <iframe src="https://www.youtube.com/embed/4pNr5IM_HRE" frameborder="0"></iframe>
-    </li>
-    <li>
       <img src="/assets/images/Presenting.jpg" alt="" />
     </li>
-    <!-- <li>
+    <li>
       <img src="/assets/images/QUT_Day4_Low_Resolution.jpg" alt="" />
-    </li> -->
+    </li>
+    <li>
+      <iframe src="https://www.youtube.com/embed/4pNr5IM_HRE" frameborder="0"></iframe>
+    </li>
   </ul>
 </div>
 
