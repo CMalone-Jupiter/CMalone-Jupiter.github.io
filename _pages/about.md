@@ -19,7 +19,7 @@ Spatially Informed Scene Understanding for Robots and Autonomous Vehicles
 ## Current Work:
 Investigating how Visual Place Recognition can be used to improve semantic segmentation in challenging domains (e.g. night, fog, snow, rain) without additional training.
 
-{% include video id="4pNr5IM_HRE" provider="youtube" %}
+<!-- {% include video id="4pNr5IM_HRE" provider="youtube" %} -->
 
 # More Interesting Things
 Growing up in a country town within Australia I was exposed to many different experiences which helped shape who I am and how I approach problems. Being the son of a livestock and station agent I have been involved with cattle work and rural property business for most of my life. In addition, many of my friends and family own and run crop farms which has given me the opportunity to learn about that side of the industry too and work with different heavy machinery.
