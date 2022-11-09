@@ -81,16 +81,16 @@ Growing up in a country town within Australia I was exposed to many different ex
         } */
     .videoWrapper {
         position: relative;
-        padding-bottom: 5%; /* 16:9 */
-        padding-top: 5%;
-        width: 10em;
+        /* padding-bottom: 5%;
+        padding-top: 5%;  */
+        width: 11em;
         }
     .videoWrapper iframe{
         position: absolute;
         top: 0;
         left: 0;
         width: 100%;
-        height: 6em;
+        height: 7em;
         border-radius: 0.25em
         }
     .image-gallery li:hover .overlay {
