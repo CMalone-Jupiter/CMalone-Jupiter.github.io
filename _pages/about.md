@@ -82,8 +82,9 @@ Growing up in a country town within Australia I was exposed to many different ex
         } */
     .videoWrapper {
         position: relative;
-        padding-bottom: 56.25%; /* 16:9 */
-        height: 0;
+        padding-bottom: 5%; /* 16:9 */
+        padding-top: 5%;
+        width: 10em;
         }
     .videoWrapper iframe{
         position: absolute;
@@ -91,6 +92,7 @@ Growing up in a country town within Australia I was exposed to many different ex
         left: 0;
         width: 100%;
         height: 100%;
+        border-radius: 0.25em
         }
     .image-gallery li:hover .overlay {
         transform: scale(1);
