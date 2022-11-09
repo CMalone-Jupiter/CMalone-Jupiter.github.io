@@ -116,7 +116,7 @@ Growing up in a country town within Australia I was exposed to many different ex
     </li> -->
     <li>
       <div class="videoWrapper">
-        <iframe src="https://www.youtube.com/embed/4pNr5IM_HRE" frameborder="0"></iframe>
+        <iframe src="https://www.youtube.com/embed/4pNr5IM_HRE?controls=0&showinfo=0&mute=1" frameborder="0"></iframe>
       </div>
     </li>
   </ul>
