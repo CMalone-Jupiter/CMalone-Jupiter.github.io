@@ -91,7 +91,7 @@ Growing up in a country town within Australia I was exposed to many different ex
         top: 0;
         left: 0;
         width: 100%;
-        height: 100%;
+        height: 6em;
         border-radius: 0.25em
         }
     .image-gallery li:hover .overlay {
