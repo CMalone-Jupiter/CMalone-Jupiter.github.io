@@ -1,5 +1,5 @@
 ---
-title: "Resume/CV"
+title: "Resume/CV (example while I write mine)"
 permalink: /cv/
 ---
 <style>
