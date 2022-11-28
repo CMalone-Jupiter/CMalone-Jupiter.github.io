@@ -14,7 +14,7 @@ div.polaroid {
 </style>
 
 <div class="polaroid">
-  <img src="/assets/cv/tinywow_Connor_academic_cv_8777726_1.png" alt="CV_1" style="width:100%">
+  <img src="/assets/cv/tinywow_Connor_academic_cv1024_1_8781706.png" alt="CV_1" style="width:100%">
 </div>
 <div class="polaroid">
   <img src="/assets/cv/tinywow_Connor_academic_cv_8777726_2.png" alt="CV_2" style="width:100%">
